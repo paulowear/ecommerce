@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    '' => array($vendorDir . '/phtecnologia/php-classes/src'),
+    'phtecnologia\\' => array($vendorDir . '/phtecnologiaBR/php-classes/src'),
 );
